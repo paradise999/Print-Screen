@@ -1,0 +1,10 @@
+D:\Users\parad\Desktop\Учёба\Проект\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\Users\parad\Desktop\Учёба\Проект\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Users\parad\Desktop\Учёба\Проект\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Users\parad\Desktop\Учёба\Проект\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+D:\Users\parad\Desktop\Учёба\Проект\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+D:\Users\parad\Desktop\Учёба\Проект\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+D:\Users\parad\Desktop\Учёба\Проект\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache
+D:\Users\parad\Desktop\Учёба\Проект\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\Users\parad\Desktop\Учёба\Проект\Lab8\Lab8\obj\Debug\Lab8.pdb
+D:\Users\parad\Desktop\Учёба\Проект\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
